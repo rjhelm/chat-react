@@ -1,0 +1,5 @@
+# import User from './generated/prisma.graphql'
+# import Conversation from './generated/prisma.graphql'
+# import Text from './generated/prisma.graphql'
+# import UserSubscriptionPayload from './generated/prisma.graphql'
+# import TextSubscriptionPayload from './generated/prisma.graphql'
